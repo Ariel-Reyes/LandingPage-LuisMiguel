@@ -1,0 +1,108 @@
+
+
+
+
+
+.navbar{
+    box-shadow: 0px 4px 4px 0px #616161;
+    padding: 5px 10px;
+    
+}
+
+
+#banner{
+    background-image: url("/img/banner.png");
+	background-position:center;
+	background-size: cover;
+	padding: 20% 0;
+	box-shadow: 0px 4px 4px 0px #616161;
+   
+}
+
+.navbar .logo-nav {
+	margin-left: 100px;
+}
+
+
+#mensaje {
+    background-color: #1a1a1a;
+    margin-top: 70px;
+    padding: 9%;
+    color: #ffff;
+    text-align: left;
+    border-radius: 40px;
+    box-shadow: 0px 4px 4px 0px #616161;
+}
+
+#mensaje img{
+    margin-left: 80%;
+    width: 150px;    
+}
+
+#localidades{
+    margin-top: 8%;
+    background-color: #1a1a1a;
+    padding-top: 5%;
+}
+
+#localidades h1{
+    text-align: center;
+    color: #ffff;
+}
+
+#localidades .estadio-img{
+    width: 60%;
+    margin-left: 20%;    
+}
+
+.tarjetas{
+    margin-top: 7%;
+}
+
+.card {
+width: 18rem;
+text-align: center;
+box-shadow: 0px 4px 4px 0px #616161;
+padding-top: 5%;
+border-radius: 15px;
+}
+
+.card:hover{
+    background-color: #cd4646;
+}
+
+.card .la-ticket-alt{
+    font-size: 95px;
+    font-weight: bold;
+}
+
+.card{
+    padding: 50px;
+}
+
+#mensaje span{
+    color: #cd4646;
+}
+
+.btn-primary{
+    border-radius: 10px;
+    background-color: #1a1a1a;
+    color: #ffff;
+    border-color: #1a1a1a;
+    padding: 10px 50px;
+    margin-top: 10px;
+}
+
+.btn-primary:hover{
+ background-color: #ffff;
+ border-color: #ffff ;
+ color: #1a1a1a;
+}
+
+#banner-dos{
+    background-image: url("/img/butacas-sin-fondo.png");
+	background-position: center;
+	background-size: cover;
+	padding: 20% 0px;
+	box-shadow: 0px 4px 4px 0px #616161;
+}
