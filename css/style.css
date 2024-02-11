@@ -11,7 +11,7 @@
 
 
 #banner{
-    background-image: url("/img/banner.png");
+    background-image: url("../img/banner.png");
 	background-position:center;
 	background-size: cover;
 	padding: 20% 0;
@@ -100,7 +100,7 @@ border-radius: 15px;
 }
 
 #banner-dos{
-    background-image: url("/img/butacas-sin-fondo.png");
+    background-image: url("../img/butacas-sin-fondo.png");
 	background-position: center;
 	background-size: cover;
 	padding: 20% 0px;
@@ -111,6 +111,22 @@ border-radius: 15px;
 	text-transform: capitalize;
 	color:#FFFFFF;
 	background-color:#1A1A1A;
+    border-radius: 40px;
+    margin-top: 100px;
+}
+
+#formulario h2{
+    text-align: center;
+}
+
+#formulario .btn-primary{
+    background-color: #cd4646;
+    margin-left: 40%;
+}
+
+#formulario .btn-primary:hover{
+    background-color: #FFFFFF;
+    color: #1A1A1A;
 }
 
 #textform{
