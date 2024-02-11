@@ -132,3 +132,47 @@ border-radius: 15px;
 #textform{
 	padding: 10%;
 }
+
+#patrocinio{
+    text-align: center;
+    color: #FFFFFF;
+    background-color: #1A1A1A;
+    padding: 4% 0;
+    margin-top: 60px;
+    border-radius: 40px;
+
+}
+
+#patrocinio h2{
+  font-size: 45px;
+    
+}
+
+footer {
+    margin-top: 50px;
+    background-color: #1A1A1A;
+	color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+.la-facebook-f{
+	font-size: 30px;
+}
+
+.la-instagram{
+	font-size: 30px;
+}
+
+.contact-section {
+    margin-top: 20px;
+}
+
+.contact-section h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.contact-section p {
+    margin: 5px 0;
+}
